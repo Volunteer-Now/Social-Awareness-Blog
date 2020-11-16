@@ -21,7 +21,7 @@ export default () => (
           className="primary-content" 
           dangerouslySetInnerHTML={{ __html: data.site.siteMetadata.home.description}}
         />
-        <Link to='/contact' className="button -primary">Read latest article &rarr;</Link>
+        <Link to='https://von-blog.netlify.app/remark-kitchen-sink' className="button -primary">Read latest article &rarr;</Link>
       </div>
     )}
   />
