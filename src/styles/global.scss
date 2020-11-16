@@ -14,7 +14,7 @@ body.light {
   --featured-bg: #bd1e00;
   --featured-text: #fff;
   --secondary-color: #10072b;
-  --background: #fff;
+  --background: #ffbe08ff;
   --site-header: var(--background);
   --card-bg: #fff;
   --card-bdr: #eee;
@@ -29,9 +29,9 @@ body.light {
   --input-bg: var(--background);
 }
 body.dark {
-  --primary-color: #9984d5;
+  --primary-color: #ffbe08ff;
   --primary-text-color: #fff;
-  --featured-bg: #66578d;
+  --featured-bg: #ffbe08ff;
   --featured-text: #fff;
   --secondary-color: #66578d;
   --background: #0A041A;
