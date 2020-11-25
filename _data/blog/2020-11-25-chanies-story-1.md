@@ -3,6 +3,9 @@ template: BlogPost
 path: /chanie_story
 date: 2020-11-25T03:56:10.878Z
 title: Chanie's Story
+metaDescription: >-
+  This is an article published by the VON Social Awareness Committee about the
+  Life of Chanie Wenjack.
 thumbnail: /assets/maxresdefault.jpg
 ---
 <!--StartFragment-->
