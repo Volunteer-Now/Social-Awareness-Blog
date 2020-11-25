@@ -21,7 +21,7 @@ The jury of the inquest determined that Chanie Wenjack ran away because he was l
 
 As Canadians work towards reconciliation with Canada’s Indigenous peoples, we must continue to spread awareness about our country’s past, present and future through campaigns and initiatives such as this one.
 
-`<mark>`**Works Cited**`</mark>`
+**Works Cited**
 
 1. Carley, Georgia. "Chanie Wenjack". The Canadian Encyclopedia, 01 November 2016, Historica Canada. https://www.thecanadianencyclopedia.ca/en/article/charlie-wenjack. Accessed 20 November 2020.
 2. Miller, J.R.. "Residential Schools in Canada". The Canadian Encyclopedia, 02 September 2020, Historica Canada. https://www.thecanadianencyclopedia.ca/en/article/residential-schools. Accessed 20 November 2020.
