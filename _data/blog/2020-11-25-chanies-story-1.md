@@ -10,6 +10,8 @@ thumbnail: /assets/maxresdefault.jpg
 ---
 <!--StartFragment-->
 
+## **By: Vipushan** Raveenthiranathan
+
 ### **Trigger Warning: Mentions of physical and sexual abuse of children.**
 
 November 17th, 2020 marks the day VON began this year’s “Wenjack Walk” initiative, this time as “Wenjack Week” due to the COVID-19 pandemic and the changes that came along with it. This article will explain who Chanie Wenjack is, his story, and the wider impact of residential schools on Indigenous peoples and Canadian history.
