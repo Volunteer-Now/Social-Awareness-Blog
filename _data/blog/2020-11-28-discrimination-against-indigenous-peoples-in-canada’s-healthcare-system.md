@@ -10,7 +10,7 @@ thumbnail: /assets/ew_d.jpg
 ---
 <!--StartFragment-->
 
-***By Sarah Hussain***
+### ***By Sarah Hussain***
 
 As Canadians, oftentimes we like to believe that we are free of issues such as racism and discrimination, at least compared to our neighbours down south. The recent case of Joyce Echaquan’s death would prove otherwise. In fact, her case is only one out of countless that highlight the systemic racism implemented in the Canadian healthcare system. 37-year old Echaquan visited the hospital in Joliette, Quebec. for stomach aches, but when she felt she was being discriminated against by the nurses, she pulled out her phone to record them. In the video, the nurses can be clearly heard saying racist comments to the Echaquan, including "you're stupid as hell," and “you have made some bad decisions” (Shingler). The video also displays agonizing screams from Echaquan, indicating that she was in immense pain, but they were met with indifference from the nurses. Two days after she checked in, Echaquan died. Her death only further reinforced the sad truth about the systemic racism against Indigenous peoples, specifically Indigenous women, that is built into Canada’s healthcare system.
 
@@ -22,15 +22,11 @@ The life expectancy of an Indigenous person is a staggering 6 years less than th
 
 The neglect faced in the healthcare system is perhaps best exemplified in the case of 45-year-old Brian Sinclair, who threw up in a hospital due to a bladder infection but it was brushed off due to staff assuming he was just drunk (Puxley). The stereotypes we associate with the Indigenous population manifests itself into negative effects on the life and health of the people. The first step to dismantling systemic racism is to first acknowledge its existence and start the conversation. The discrimination in the healthcare system is so overlooked it is our responsibility to speak out about these issues and invoke change.
 
-
-
 ### **Works Cited**
 
 * Brym, Robert J.SOC. Nelson Education, 2020.
 * Galabuzi, Grace-Edward.Canadas Economic Apartheid: the Social Exclusion of Racialized Groups in the New Century. Canadian Scholars Press, 2006.
 * Benjamin Shingler. “Investigations Launched after Atikamekw Woman Records Quebec Hospital Staff Uttering Slurs before Her Death | CBC News.”CBCnews, CBC/Radio Canada, 30 Sept. 2020,[www.cbc.ca/news/canada/montreal/quebec-atikamekw-joliette-1.5743449](http://www.cbc.ca/news/canada/montreal/quebec-atikamekw-joliette-1.5743449).
 * Puxley, Chinta. “Brian Sinclair's Family Calls ER Death Report 'Wasted Opportunity'.” Global News, Global News, 13 Dec. 2014,  https://globalnews.ca/news/1723206/inquest-report-on-brian-sinclairs-winnipeg-er-death-released-friday/.
-
-
 
 <!--EndFragment-->
