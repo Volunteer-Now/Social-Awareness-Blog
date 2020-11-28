@@ -22,6 +22,8 @@ The life expectancy of an Indigenous person is a staggering 6 years less than th
 
 The neglect faced in the healthcare system is perhaps best exemplified in the case of 45-year-old Brian Sinclair, who threw up in a hospital due to a bladder infection but it was brushed off due to staff assuming he was just drunk (Puxley). The stereotypes we associate with the Indigenous population manifests itself into negative effects on the life and health of the people. The first step to dismantling systemic racism is to first acknowledge its existence and start the conversation. The discrimination in the healthcare system is so overlooked it is our responsibility to speak out about these issues and invoke change.
 
+
+
 ### **Works Cited**
 
 * Brym, Robert J.SOC. Nelson Education, 2020.
