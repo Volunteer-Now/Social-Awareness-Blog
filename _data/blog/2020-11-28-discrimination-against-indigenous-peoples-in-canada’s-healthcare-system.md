@@ -5,12 +5,12 @@ date: 2020-11-28T01:27:48.414Z
 title: Discrimination Against Indigenous Peoples in Canada’s Healthcare System
 metaDescription: |-
   Discrimination Against Indigenous Peoples in Canada’s Healthcare System
-  By Sarah Hussain
+  By Sarah Husain
 thumbnail: /assets/ew_d.jpg
 ---
 <!--StartFragment-->
 
-### ***By Sarah Hussain***
+### ***By Sarah Husain***
 
 As Canadians, oftentimes we like to believe that we are free of issues such as racism and discrimination, at least compared to our neighbours down south. The recent case of Joyce Echaquan’s death would prove otherwise. In fact, her case is only one out of countless that highlight the systemic racism implemented in the Canadian healthcare system. 37-year old Echaquan visited the hospital in Joliette, Quebec. for stomach aches, but when she felt she was being discriminated against by the nurses, she pulled out her phone to record them. In the video, the nurses can be clearly heard saying racist comments to the Echaquan, including "you're stupid as hell," and “you have made some bad decisions” (Shingler). The video also displays agonizing screams from Echaquan, indicating that she was in immense pain, but they were met with indifference from the nurses. Two days after she checked in, Echaquan died. Her death only further reinforced the sad truth about the systemic racism against Indigenous peoples, specifically Indigenous women, that is built into Canada’s healthcare system.
 
@@ -21,8 +21,6 @@ As Canadians, oftentimes we like to believe that we are free of issues such as r
 The life expectancy of an Indigenous person is a staggering 6 years less than that of the average Canadian, which is the same as the difference in life expectancy between Canadians and North Koreans (Brym 489). This is a direct result of the neglect Indigenous people face as a result of their race in many factors of society, including housing and healthcare. Even before Indigenous people are directly affected by healthcare professionals, there are many factors that contribute to their poor health in the first place that is a consequence of the social exclusion because of their race (Galabuzi). A lot of this social exclusion can be attributed to where Indigenous populations live. A large percentage of the population live on reserves with poor living conditions such as unsafe drinking water and little to no medical services. Those who live in urban parts of Canada aren’t faring any better. They face housing discrimination and are often forced into cramped and unsanitary living spaces which put their health at risk (Brym). All of this accumulates to poor health, which is only worsened when we take into account the coping mechanisms taken up by Indigenous people as a response to racism; drug abuse and heavy drinking. With poor health that results from factors beyond their control, Indigenous people must at least have a healthcare system free from racial discrimination to turn to, but alas, that is not the case.
 
 The neglect faced in the healthcare system is perhaps best exemplified in the case of 45-year-old Brian Sinclair, who threw up in a hospital due to a bladder infection but it was brushed off due to staff assuming he was just drunk (Puxley). The stereotypes we associate with the Indigenous population manifests itself into negative effects on the life and health of the people. The first step to dismantling systemic racism is to first acknowledge its existence and start the conversation. The discrimination in the healthcare system is so overlooked it is our responsibility to speak out about these issues and invoke change.
-
-
 
 ### **Works Cited**
 
