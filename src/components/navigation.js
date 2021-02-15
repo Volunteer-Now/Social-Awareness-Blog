@@ -6,7 +6,7 @@ export default (props) => (
   <nav className="navigation"> 
     <Link to="/"><b>Home</b></Link>
     <Link to="/contact"><b>About</b></Link>
-    <Link to="/contact"><b>Events</b></Link>
+    <Link to="https://von-fair.netlify.app/"><b>VON FAIR</b></Link>
     <ThemeChanger/>
   </nav>
   
