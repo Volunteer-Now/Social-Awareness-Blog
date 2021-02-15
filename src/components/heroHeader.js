@@ -21,7 +21,7 @@ export default () => (
           className="primary-content" 
           dangerouslySetInnerHTML={{ __html: data.site.siteMetadata.home.description}}
         />
-        <Link to='/discrimination_indigenous_healthcare_canada' className="button -primary">Read latest article &rarr;</Link>
+        <Link to='/redefining-volunteerism' className="button -primary">Read latest article &rarr;</Link>
       </div>
     )}
   />
