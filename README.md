@@ -2,4 +2,5 @@
 
 # SATEC VON - Social Awareness Blog Web App
 This simple website built with GatsbyJS and Netlify CMS. Deploys on netlify with single click. This Starter is sponsered by [W3Layouts](https://w3layouts.com).
-Access the website using this link: https://von-blog.netlify.app/
+<br>
+Access the SATEC VON Blog website using this link: https://von-blog.netlify.app/
