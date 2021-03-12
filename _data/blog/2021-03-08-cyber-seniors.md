@@ -8,7 +8,9 @@ thumbnail: /assets/hand-drawn-illustration-seniors-using-technology_52683-55000.
 ---
 <!--StartFragment-->
 
-<h2><b>By: Karthik Pakki</b></h2>
+<h2><b>Written By: Karthik Pakki</b></h2>
+
+<h2><b>Research By: Vipushan Raveenthiranathan</b></h2>
 
 In today’s fast-moving data-driven world, people who don’t have exposure to technology are bound to be at a disadvantage. A specific group of our community is especially vulnerable to this. Seniors. That’s right. Our seniors who populate book clubs and walk in the parks are vulnerable as society becomes increasingly reliant on the use of technology to relay information. Only 40% of older adults use smartphones, and that rate declines to 17% among adults aged eighty plus. Internet usage is slightly higher, but more than a quarter of older adults lack access to the internet [[1](https://news.utexas.edu/2020/03/11/digital-generation-gap-turns-health-crisis-into-information-crisis-for-older-people/#:~:text=Only%2040%25%20of%20older%20adults,help%20setting%20up%20digital%20devices)].
 
